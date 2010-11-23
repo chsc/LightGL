@@ -1,0 +1,22 @@
+
+LightGL Software Rasterizer
+==========================
+
+LightGL is a simple and minimalistic software rasterizer with fragment and vertex shader support.
+
+License
+-------
+
+See file LICENSE.
+
+Build
+-----
+
+You need to install CMake (http://www.cmake.org) to build LightGL.
+
+	$ git clone git://github.com/chsc/LightGL
+	$ mkdir build
+	$ cd build
+	$ cmake ..
+	$ make
+
